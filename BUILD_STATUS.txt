@@ -1,0 +1,2 @@
+Local analysis script execution status: success
+If not successful, install requirements.txt and run python src/analyze_reviews.py.
